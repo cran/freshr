@@ -1,0 +1,9 @@
+c1e52f716a52db13fe7f329ebeb05534 *DESCRIPTION
+f59e2ca0fe4494ca3665bf8915719b93 *LICENSE
+eba7de041fedbced64b9c7e44e5c066e *NAMESPACE
+09bb3716330e590ca6247e413ead515c *NEWS.md
+96cd294afb98b5f712a0a993bc67bac8 *R/freshr.R
+1aba435107dc7a6aec2eb500db85c9cb *README.md
+96d37f71e108b4c174c0c4d0afcc6c6a *man/freshr.Rd
+e0c8779ef7a0ee6c6c2756223e147134 *tests/testthat.R
+b04fbe727dd825cb8dc99a5883e1fdf5 *tests/testthat/test-freshr.R
